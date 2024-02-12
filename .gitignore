@@ -1,0 +1,9 @@
+.vscode
+db.sqlite3
+venv/
+app/__pycache__
+app/app/__pycache__
+app/todo_api/__pycache__
+app/user/__pycache__
+app/celerybeat-schedule
+app/db.sqlite3
